@@ -1,4 +1,5 @@
 # -Customer-Behavior-Prediction-towards-Interest-Rate-Changes-using-Macroeconomic-Variables
+
 ##Introduction
 This project aims to predict customer behavior in response to changes in interest rates by analyzing macroeconomic variables. By exploring the relationship between macroeconomic indicators such as inflation, long-term interest rates, unemployment rates, short-term interest rates, and the Household Credit Card Rate (HCCR), we seek to understand how shifts in these factors influence customer decisions and behaviors.
 
